@@ -13,15 +13,19 @@ Server = https://archlinux.mirror.digitalpacific.com.au/$repo/os/$arch
 
 ## Bangladesh
 Server = http://mirror.xeonbd.com/archlinux/$repo/os/$arch
+No https url
 
 ## Belarus
 Server = http://ftp.byfly.by/pub/archlinux/$repo/os/$arch
+No https url
 
 ## Belgium
 Server = http://archlinux.mirror.kangaroot.net/$repo/os/$arch
+No https url
 
 ## Bosnia and Herzegovina
 Server = http://archlinux.mirror.ba/$repo/os/$arch
+No https url
 
 ## Brazil
 Server = http://archlinux.c3sl.ufpr.br/$repo/os/$arch
@@ -45,6 +49,7 @@ Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
 
 ## Colombia
 Server = http://mirrors.udenar.edu.co/archlinux/$repo/os/$arch
+No https url
 
 ## Croatia
 Server = http://archlinux.iskon.hr/$repo/os/$arch
@@ -59,6 +64,7 @@ Server = https://mirrors.dotsrc.org/archlinux/$repo/os/$arch
 
 ## Ecuador
 Server = http://mirror.cedia.org.ec/archlinux/$repo/os/$arch
+No https url
 
 ## Finland
 Server = http://arch.mirror.far.fi/$repo/os/$arch
@@ -78,6 +84,7 @@ Server = https://mirror.23media.com/archlinux/$repo/os/$arch
 
 ## Greece
 Server = http://ftp.cc.uoc.gr/mirrors/linux/archlinux/$repo/os/$arch
+No https url
 
 ## Hong Kong
 Server = http://mirror-hk.koddos.net/archlinux/$repo/os/$arch
@@ -129,6 +136,7 @@ Server = https://archlinux.mirror.liquidtelecom.com/$repo/os/$arch
 
 ## Latvia
 Server = http://archlinux.koyanet.lv/archlinux/$repo/os/$arch
+No https url
 
 ## Lithuania
 Server = http://mirrors.atviras.lt/archlinux/$repo/os/$arch
@@ -136,6 +144,7 @@ Server = https://mirrors.atviras.lt/archlinux/$repo/os/$arch
 
 ## Luxembourg
 Server = http://archlinux.mirror.root.lu/$repo/os/$arch
+No https url
 
 ## Netherlands
 Server = http://mirror.i3d.net/pub/archlinux/$repo/os/$arch
@@ -159,9 +168,11 @@ Server = https://mirror.neuf.no/archlinux/$repo/os/$arch
 
 ## Paraguay
 Server = http://archlinux.mirror.py/archlinux/$repo/os/$arch
+No https url
 
 ## Philippines
 Server = http://mirror.rise.ph/archlinux/$repo/os/$arch
+No https url
 
 ## Poland
 Server = http://ftp.icm.edu.pl/pub/Linux/dist/archlinux/$repo/os/$arch
@@ -181,6 +192,7 @@ Server = https://mirror.rol.ru/archlinux/$repo/os/$arch
 
 ## Serbia
 Server = http://arch.petarmaric.com/$repo/os/$arch
+No https url
 
 ## Singapore
 Server = http://mirror.0x.sg/archlinux/$repo/os/$arch
@@ -224,6 +236,7 @@ Server = https://mirror.kku.ac.th/archlinux/$repo/os/$arch
 
 ## Turkey
 Server = http://ftp.linux.org.tr/archlinux/$repo/os/$arch
+No https url
 
 ## Ukraine
 Server = http://archlinux.ip-connect.vn.ua/$repo/os/$arch
@@ -239,4 +252,5 @@ Server = https://archlinux.surlyjake.com/archlinux/$repo/os/$arch
 
 ## Vietnam
 Server = http://f.archlinuxvn.org/archlinux/$repo/os/$arch
+No https url
 
