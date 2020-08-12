@@ -2,9 +2,10 @@
 ArchLinux installation script based on Python.
 
 ## Usage
-'''
+
+```bash
 ./install.py
-'''
+```
 
 ## About
 PyArchInstall
