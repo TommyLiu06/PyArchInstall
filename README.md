@@ -2,6 +2,7 @@
 ArchLinux installation script based on Python.
 
 ## Usage
+"/usr/bin/Python3" has been specified to run this script and the following command can be executed directly
 
 ```bash
 ./install.py
