@@ -2,20 +2,18 @@
 ArchLinux installation script based on Python.
 
 ## Usage
-"/usr/bin/Python3" has been specified to run this script，
-&nbsp;&nbsp;&nbsp;&nbsp;and the following command can be executed directly.
+"/usr/bin/Python3" has been specified to run this script and the following command can be executed directly
 
 ```bash
 ./install.py
 ```
 
 ## About
-PyArchInstall < br >
-&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/TommyLiu06/PyArchInstall < br >
-ArchLinux installation script based on Python. < br >
+PyArchInstall
+   https://github.com/TommyLiu06/PyArchInstall
+ArchLinux installation script based on Python.
 License: GPL v3
 
-Script write by Tommy Liu < br >
-QQ: 1781880032 / 3611142393 < br >
+Script write by Tommy Liu
+QQ: 1781880032 / 3611142393
 Email: 1781880032@qq.com / 3611142393@qq.com
-
