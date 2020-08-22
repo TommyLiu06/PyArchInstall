@@ -34,7 +34,9 @@ if ifBios == 'y':
     os.system("grub-install --target=i386-pc /dev/"+dev)
     os.system("grub-mkconfig -o /boot/grub/grub.cfg")
     print(r+"Now, umount filesystems and reboot."+o)
-    exit()
 else:
     print(r+"Please install bootstrap by hand"+o)
-    exit()
+os.system("umount -R /mnt")
+os.remove("/etc/pacman.d/mirrorlist")
+os.rename("/etc/pacman.d/mirrorlist.back", "/etc/pacman.d/mirrorlist")
+exit()
