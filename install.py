@@ -154,11 +154,11 @@ while True:
         os.system("clear")
         country = input("Enter your country: ")
         countryNotFound = True
-        while countryNotFound == True:
+        while countryNotFound:
             if country == '':
-                continue
+                break
             # Capital the first letter
-            elif country.istitle() == False:
+            elif not(country.istitle()):
                 country = country.capitalize()
             country = "## "+country+"\n"
             line = 1
